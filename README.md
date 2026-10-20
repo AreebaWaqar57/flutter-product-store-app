@@ -1,6 +1,6 @@
 # Product Store App
 
-A Flutter application built to practise CRUD (Create, Read, Update, Delete) operations using the DummyJSON Products REST API. No custom backend is used.
+A Flutter application built to practice CRUD (Create, Read, Update, Delete) operations using the DummyJSON Products REST API. No custom backend is used.
 
 ## Features
 
